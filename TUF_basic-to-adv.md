@@ -1,5 +1,5 @@
 🔵 PHASE 1 — FOUNDATIONS → CORE PROBLEM SOLVING
-Goal:Build strong problem-solving basics and pattern recognition.
+Goal: Build strong problem-solving basics and pattern recognition.
 Covers:
 
 - Arrays
@@ -96,7 +96,7 @@ Arrays Advanced
 - Number of Substrings Containing All Three Characters
   66
   🟣 PHASE 2 — DATA STRUCTURES MASTERY
-  Goal:Master linked structures, recursion in DS, and tree-based interview problems.
+  Goal: Master linked structures, recursion in DS, and tree-based interview problems.
   Covers:
 - Linked List
 - Stack
@@ -194,7 +194,7 @@ Linked List Advanced
 - Kth Largest in Stream
   64
   🔴 PHASE 3 — ADVANCED ALGORITHMIC THINKING
-  Goal:Master hard interview patterns and advanced algorithms.
+  Goal: Master hard interview patterns and advanced algorithms.
   Covers:
 - Graphs
 - Dynamic Programming
